@@ -16,7 +16,7 @@
   </parent>
   <groupId>com.cherylorcutt</groupId>
   <artifactId>cao-pet-clinic</artifactId>
-  <version>0.0.2</version>
+  <version>0.0.3-SNAPSHOT</version>
   <name>cao-pet-clinic</name>
   <description>Demo project for Spring Boot</description>
 
@@ -44,6 +44,6 @@
 
   <scm>
     <developerConnection>scm:git:https://github.com/daisymae/cao-pet-clinic.git</developerConnection>
-    <tag>cao-pet-clinic-0.0.2</tag>
+    <tag>HEAD</tag>
   </scm>
 </project>
