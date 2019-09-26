@@ -3,11 +3,12 @@
   <parent>
     <artifactId>cao-pet-clinic</artifactId>
     <groupId>com.cherylorcutt</groupId>
-    <version>0.0.3</version>
+    <version>0.0.4-SNAPSHOT</version>
   </parent>
   <modelVersion>4.0.0</modelVersion>
 
   <artifactId>pet-clinic-data</artifactId>
+  <version>0.0.2</version>
 
   <properties>
     <!-- package a jar with just our classes, not a fat jar -->
@@ -52,8 +53,4 @@
       </plugin>
     </plugins>
   </build>
-
-  <scm>
-    <tag>cao-pet-clinic-0.0.3</tag>
-  </scm>
 </project>
